@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingbest4care
-- 👀 I’m a DevOps Engineer and Solution Architect
-- 🌱 I love to build Infrastructure in the cloud
+- 👀 I’m a Cloud Engineer and Security Solution Architect
+- 🌱 I love to build Secured Infrastructure in the cloud
 - 💞️ I’m looking to collaborate on smart ways to build serverless apps
 - 📫 How to reach me +2348068256649
 
